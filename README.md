@@ -22,5 +22,5 @@
 ## Demo
   - [api](https://qrcode-checkin-checkout.herokuapp.com/)
   - [react-app](https://qrcode-66c0e.web.app/)
-## The Source Code Fe-QRCode
-https://github.com/HaiLe81/FE-QRCode
+## React App
+[Source](https://github.com/HaiLe81/FE-QRCode)
